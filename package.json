@@ -1,0 +1,25 @@
+{
+  "name": "backend-learning",
+  "version": "1.0.0",
+  "description": "a backend in learning",
+  "keywords": [
+    "javascript",
+    "backend",
+    "chai"
+  ],
+  "homepage": "https://github.com/s-p08/backend-development#readme",
+  "bugs": {
+    "url": "https://github.com/s-p08/backend-development/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/s-p08/backend-development.git"
+  },
+  "license": "ISC",
+  "author": "shivam",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
